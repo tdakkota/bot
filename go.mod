@@ -11,7 +11,7 @@ require (
 	github.com/google/go-github/v33 v33.0.0
 	github.com/gotd/contrib v0.10.0
 	github.com/gotd/getdoc v0.6.2
-	github.com/gotd/td v0.50.0-alpha.3
+	github.com/gotd/td v0.51.1
 	github.com/gotd/tl v0.4.0
 	github.com/labstack/echo/v4 v4.5.0
 	github.com/povilasv/prommod v0.0.12
@@ -20,7 +20,7 @@ require (
 	go.etcd.io/bbolt v1.3.6
 	go.uber.org/atomic v1.9.0
 	go.uber.org/multierr v1.7.0
-	go.uber.org/zap v1.19.0
+	go.uber.org/zap v1.19.1
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
